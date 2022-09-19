@@ -1,5 +1,12 @@
-### Olá!!! Eu sou Willian R. Santos.
+### Hi , I'm Willian R. Santos.
 
+🔥 Software Developer - Front End.
 
-- Estudande de Engenharia Front End na EBAC / SP
--->
+🔭 I’m currently working at Atacadão group.
+
+💬 Ask me about JavaScript, HTML, CSS.
+
+ 👨‍💻 More about me - ⚡
+
+https://www.instagram.com/euwillian.santos/
+https://www.linkedin.com/in/willian-roberto-dos-santos/

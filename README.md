@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Willian Santos
 ======================================================================================================================================
 
-Desenvolvedor Front-End | Programador
+🔥Desenvolvedor Front-End | Programador
 -------------------------------------
 
 Hello World, sou Willian Santos, estudante em Analise e Desenvolvimento de Sistema. Apaixonado por tecnologia, sempre buscando escrever código limpo, eficiente e de fácil manutenção.
-🔥 Software Developer - Front End.
 
  👨‍💻 More about me - ⚡
 *   🌍  I'm based in Caçapava
